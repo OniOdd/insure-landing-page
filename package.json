@@ -1,0 +1,21 @@
+{
+  "name": "insure-landing-page",
+  "version": "1.0.0",
+  "description": "This is a solution to the [Insure landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/insure-landing-page-uTU68JV8). Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
+  "main": "index.js",
+  "scripts": {
+    "sass:b": "sass scss/:styles/",
+    "sass:w": "sass --watch scss/:styles/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-oniodd:OniOdd/insure-landing-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "sass": "^1.97.3"
+  }
+}

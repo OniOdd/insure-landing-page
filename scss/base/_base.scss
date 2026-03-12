@@ -1,0 +1,9 @@
+@use "../util" as u;
+
+body {
+  font-family: u.$font-main;
+  font-size: u.rem(16);
+  font-weight: 400;
+  line-height: 1.19;
+  background-color: u.$clr-white;
+}

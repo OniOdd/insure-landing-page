@@ -42,3 +42,4 @@ design/
 example.html
 README.md
 style-guide.md
+styles/*.css.map
